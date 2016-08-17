@@ -2,7 +2,7 @@
   "name": "mborkowski/margentoext-richsnippets",
   "type": "magento-module",
   "license": "",
-  "description": "",
+  "description": "Richsnippets",
   "authors":[
         {
           "name":"mborkowski"
